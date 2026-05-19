@@ -1,2 +1,2 @@
 # Java_mini_project
-Stydent mark management system
+Student mark management system
